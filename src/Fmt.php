@@ -8,27 +8,33 @@
 namespace Panda\SmsCenter\MessengerSdk;
 
 /**
- * Class Charset
+ * Class Fmt
  * @package Panda\SmsCenter\MessengerSdk
- * Кодировка
+ * Формат ответа сервера
  */
-class Charset
+class Fmt
 {
     /**
-     * Windows-1251 (По умолчанию)
+     * Строка (По умолчанию)
      * @link https://smsc.ru/api/http/
      */
-    public const WINDOWS_1251 = 'windows-1251';
+    public const STRING = '0';
 
     /**
-     * UTF-8
+     * Числа
      * @link https://smsc.ru/api/http/
      */
-    public const UTF_8 = 'utf-8';
+    public const NUMBERS = '1';
 
     /**
-     * KOI8-R
+     * XML
      * @link https://smsc.ru/api/http/
      */
-    public const KOI8_R = 'koi8-r';
+    public const XML = '2';
+
+    /**
+     * JSON
+     * @link https://smsc.ru/api/http/
+     */
+    public const JSON = '3';
 }
