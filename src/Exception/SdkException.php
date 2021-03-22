@@ -8,11 +8,11 @@
 namespace Panda\SmsCenter\MessengerSdk\Exception;
 
 /**
- * Class ClientException
+ * Interface SdkException
  * @package Panda\SmsCenter\MessengerSdk\Exception
- * Исключения пользователя
+ * Исключения
  */
-class ClientException extends \RuntimeException implements SdkException
+interface SdkException
 {
 
 }
