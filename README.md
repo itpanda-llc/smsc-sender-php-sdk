@@ -3,8 +3,8 @@
 Библиотека для интеграции c сервисом рассылки сообщений ["СМСЦентр"](https://smsc.ru)
 
 [![Packagist Downloads](https://img.shields.io/packagist/dt/itpanda-llc/smscenter-messenger-sdk)](https://packagist.org/packages/itpanda-llc/smscenter-messenger-sdk/stats)
+![Packagist License](https://img.shields.io/packagist/l/itpanda-llc/smscenter-messenger-sdk)
 ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/itpanda-llc/smscenter-messenger-sdk)
-![GitHub](https://img.shields.io/github/license/itpanda-llc/smscenter-messenger-php-sdk)
 
 ## Ссылки
 
