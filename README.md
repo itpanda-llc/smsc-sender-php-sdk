@@ -1,4 +1,4 @@
-# SMSCenter-Sender-PHP-SDK
+# SMSCenter-Sender-SDK
 
 Библиотека для интеграции c сервисом рассылки сообщений ["СМСЦентр"](https://smsc.ru)
 

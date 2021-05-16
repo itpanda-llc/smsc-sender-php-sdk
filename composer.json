@@ -1,7 +1,7 @@
 {
     "name": "itpanda-llc/smscenter-messenger-sdk",
     "description": "Library for integration with the SMSCenter messaging service",
-    "homepage": "https://github.com/itpanda-llc/smscenter-messenger-php-sdk",
+    "homepage": "https://github.com/itpanda-llc/smscenter-messenger-sdk",
     "license": "MIT",
     "authors": [
         {
